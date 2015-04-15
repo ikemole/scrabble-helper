@@ -28,7 +28,6 @@ namespace ScrabbleWordFinderApp
             splashThread.SetApartmentState(ApartmentState.STA);
             splashThread.Start();
 
-
             // Start main form
             HomeWindow homeWindow = new HomeWindow();
             homeWindow.Load += new EventHandler(mainForm_Load);
@@ -37,7 +36,7 @@ namespace ScrabbleWordFinderApp
 
         static void mainForm_Load(object sender, EventArgs e)
         {
-            //close splash
+            // When form loading is complete, close splash screen.
             if (splashScreen == null)
             {
                 return;
