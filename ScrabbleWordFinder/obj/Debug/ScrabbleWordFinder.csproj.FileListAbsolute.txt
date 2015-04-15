@@ -1,0 +1,16 @@
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\bin\Debug\ScrabbleHelper.dll.config
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\bin\Debug\ScrabbleHelper.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\bin\Debug\ScrabbleHelper.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\obj\Debug\ScrabbleWordFinder.csprojResolveAssemblyReference.cache
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\obj\Debug\ScrabbleHelper.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\obj\Debug\ScrabbleHelper.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinder\bin\Debug\ScrabbleWordFinder.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinder\bin\Debug\ScrabbleWordFinder.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinder\obj\Debug\ScrabbleWordFinder.csprojResolveAssemblyReference.cache
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinder\obj\Debug\ScrabbleWordFinder.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinder\obj\Debug\ScrabbleWordFinder.pdb
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinder\bin\Debug\ScrabbleWordFinder.dll
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinder\bin\Debug\ScrabbleWordFinder.pdb
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinder\obj\Debug\ScrabbleWordFinder.csprojResolveAssemblyReference.cache
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinder\obj\Debug\ScrabbleWordFinder.dll
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinder\obj\Debug\ScrabbleWordFinder.pdb

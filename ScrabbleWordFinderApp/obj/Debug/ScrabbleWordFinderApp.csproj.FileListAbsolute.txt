@@ -1,0 +1,53 @@
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinderApp.exe.config
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinderApp.exe
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinderApp.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\bin\Debug\ScrabbleHelper.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\bin\Debug\ScrabbleHelper.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.csprojResolveAssemblyReference.cache
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.ContestWindow.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.HomeWindow.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.Properties.Resources.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.csproj.GenerateResource.Cache
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.exe
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.CheatWindow.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinderApp.exe.manifest
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinderApp.application
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.exe.manifest
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.application
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.exe.config
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.exe.manifest
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.application
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.exe
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinder.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinder.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.csprojResolveAssemblyReference.cache
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.CheatWindow.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.ContestWindow.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.HomeWindow.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.Properties.Resources.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.SplashScreen.resources
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.csproj.GenerateResource.Cache
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\TheScrambler.exe.manifest
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\TheScrambler.application
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\TheScrambler.exe
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\TheScrambler.pdb
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.exe.config
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.exe.manifest
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.application
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.exe
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\TheScrambler.pdb
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinder.dll
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\bin\Debug\ScrabbleWordFinder.pdb
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.csprojResolveAssemblyReference.cache
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.CheatWindow.resources
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.ContestWindow.resources
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.HomeWindow.resources
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.Properties.Resources.resources
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.SplashScreen.resources
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\ScrabbleWordFinderApp.csproj.GenerateResource.Cache
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\TheScrambler.exe.manifest
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\TheScrambler.application
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\TheScrambler.exe
+C:\projects\ScrabbleWordFinder\ScrabbleWordFinderApp\obj\Debug\TheScrambler.pdb

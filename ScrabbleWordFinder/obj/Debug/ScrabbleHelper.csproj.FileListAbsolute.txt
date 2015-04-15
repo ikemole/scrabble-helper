@@ -1,0 +1,6 @@
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\bin\Debug\ScrabbleHelper.dll.config
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\bin\Debug\ScrabbleHelper.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\bin\Debug\ScrabbleHelper.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\obj\Debug\ScrabbleHelper.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\obj\Debug\ScrabbleHelper.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper\obj\Debug\ScrabbleHelper.csprojResolveAssemblyReference.cache

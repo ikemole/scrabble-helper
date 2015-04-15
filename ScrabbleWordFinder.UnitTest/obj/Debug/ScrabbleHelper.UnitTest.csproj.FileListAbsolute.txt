@@ -1,0 +1,8 @@
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper.UnitTest\bin\Debug\ScrabbleHelper.UnitTest.dll.config
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper.UnitTest\bin\Debug\ScrabbleHelper.UnitTest.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper.UnitTest\bin\Debug\ScrabbleHelper.UnitTest.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper.UnitTest\bin\Debug\ScrabbleHelper.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper.UnitTest\bin\Debug\ScrabbleHelper.pdb
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper.UnitTest\obj\Debug\ScrabbleHelper.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper.UnitTest\obj\Debug\ScrabbleHelper.UnitTest.dll
+C:\Users\Ikwuagwu\Documents\Visual Studio 2010\Projects\ScrabbleHelper\ScrabbleHelper.UnitTest\obj\Debug\ScrabbleHelper.UnitTest.pdb
