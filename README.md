@@ -1,3 +1,6 @@
 # The Scrambler
 
-A program to help you find words with a set of letters.
+**A fun tool that can be used to cheat during a game of Scrabble.**
+
+
+![Screenshot](https://raw.githubusercontent.com/ikemole/scrabble-helper/master/scrambler_screenshot.png)
